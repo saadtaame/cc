@@ -29,7 +29,7 @@ int isSpace(const char *c)
 		return 1;
 	if(*c == '/')
 	{	if(*(c+1) == '/')
-			comment = 1; 
+			comment = 1;
 		else if(*(c+1) == '*')
 			comment = 2;
 		return 2;
