@@ -2,7 +2,7 @@
 
 WORK IN PROGRESS
 
-A hand-crafted compiler for the C (C1X) programming language.
+A hand-crafted compiler for the C (C11) programming language.
 
 What has been done ?
 
